@@ -1,2 +1,2 @@
 # action_test
-Repo to test GH actions for R
+Repo to test GH actions for R.
